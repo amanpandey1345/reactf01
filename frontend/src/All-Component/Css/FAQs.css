@@ -1,0 +1,164 @@
+
+
+/* Loptap and Computer code  */
+@media (min-width: 992px) and (max-width:1600px) {
+
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+        
+    }
+
+    .FAQs {
+        background-color: rgb(0, 68, 255);
+        height: auto;
+        width: 96%;
+        margin: 10px 2%;
+        text-align: justify;
+        color: white;
+        font-size: 18px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        padding: 30px 20px;
+    }
+
+    .FAQs h1 {
+        font-size: 27px;
+        margin: 20px 5px;
+        text-align: center;
+    }
+
+    .FAQs h2 {
+        font-size: 25px;
+        text-align: center;
+        margin: 20px 5px;
+    }
+
+    .FAQs h3 {
+        font-size: 19px;
+        text-align: justify;
+        margin: 10px 5px;
+        
+    }
+
+    .Quention {
+        margin: 60px 5px;
+        padding: 0px 30px;
+        
+    }
+
+    .FAQs p {
+        font-size: 15px;
+        text-align: justify;
+        
+    }
+
+
+
+
+
+
+}
+
+
+/* Loptap and Computer code end */
+
+    @media (min-width: 501px) and (max-width:992px) {
+
+        * {
+            box-sizing: border-box;
+            margin: 0px;
+            padding: 0px;
+            
+        }
+
+        .FAQs {
+            background-color: rgb(0, 68, 255);
+            height: auto;
+            width: 96%;
+            margin: 10px 2%;
+            text-align: justify;
+            color: white;
+            font-size: 17px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            padding: 25px 20px;
+        }
+    
+        .FAQs h1 {
+            font-size: 25px;
+            margin: 20px 5px;
+            text-align: center;
+        }
+    
+        .FAQs h3 {
+            font-size: 16px;
+            text-align: justify;
+            margin: 10px 5px;
+            
+        }
+    
+        .Quention {
+            margin: 50px 5px;
+            padding: 0px 20px;
+            
+        }
+    
+        .FAQs p {
+            font-size: 14px;
+            text-align: justify;
+            
+        }
+ 
+    
+    
+    }
+    
+
+/* mobile and tablet design code */
+@media (min-width: 10px) and (max-width:500px) {
+
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .FAQs {
+        background-color: rgb(0, 68, 255);
+        height: auto;
+        width: 96%;
+        margin: 10px 2%;
+        text-align: justify;
+        color: white;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        padding: 10px 20px;
+    }
+
+    .FAQs h1 {
+        font-size: 20px;
+        margin: 20px 5px;
+        text-align: center;
+    }
+
+    .FAQs h3 {
+        font-size: 14px;
+        text-align: justify;
+        
+        
+    }
+
+    .Quention {
+        margin: 30px 1px;
+        padding: 0px 5px;
+        
+    }
+
+    .FAQs p {
+        font-size: 11px;
+        text-align: justify;
+        
+    }
+    
+
+/* mobile and tablet design code end */
+} 

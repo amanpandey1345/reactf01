@@ -1,0 +1,130 @@
+/* Loptap and Computer code  */
+@media (min-width: 992px) and (max-width:1600px) {
+
+    .Second_Footer {
+        background-color:#002E84 ;
+        color: white;
+        width: 60%;
+        height: auto;
+        margin: 0px 20%;
+        font-family: 'Charis SIL', serif;
+        
+    }
+
+    .Second_Footer ul {
+        padding-top: 20px;
+        padding: 10px;
+    }
+
+
+    .Second_Footer ul li {
+        text-align: center;
+        font-size: 18px;
+        line-height: 40px;
+        font-family: 'Charis SIL', serif;
+        color: silver;
+        list-style-type: none;
+
+    }
+
+    .Second_Footer ul li a {
+        color: white;
+        font-size: 15px;
+        text-decoration: none;
+    }
+
+    .Second_Footer ul li a:hover {
+        color: #1dec0a ;
+    }
+
+    .Copyrightline {
+        background-color: black;
+        height: auto;
+        padding: 2px;
+        text-align: center;
+        
+    }
+
+    .Copyrightline div {
+        padding: 2px 0px;
+        font-size: 13px;
+        
+    }
+
+    .Copyrightline a {
+        text-decoration: none
+    }
+
+    .Copyrightline i {
+        font-size: 14px;
+        padding: 7px;
+        margin: 0px 5px;
+        border-radius: 5px;
+    }
+     
+    }
+    
+    
+    /* Loptap and Computer code end */
+    
+    
+    /* mobile and tablet design code */
+    @media (min-width: 10px) and (max-width:991px) {
+
+        .Second_Footer {
+            background-color:#002E84 ;
+            color: white;
+            font-family: 'Charis SIL', serif;
+            margin-bottom: 70px;
+        }
+
+        .Second_Footer ul {
+            padding-top: 20px;
+            padding: 10px;
+        }
+
+        .Second_Footer ul li {
+            text-align: center;
+            font-size: 17px;
+            line-height: 40px;
+            font-family: 'Charis SIL', serif;
+            color: silver;
+            list-style-type: none;
+    
+        }
+
+        .Second_Footer ul li a {
+            color: white;
+            font-size: 14px;
+            text-decoration: none;
+        }
+
+        .Second_Footer ul li a:hover {
+            color: #1dec0a ;
+        }
+    
+        .Copyrightline {
+            background-color: black;
+            height: auto;
+            text-align: center;
+        }
+
+        .Copyrightline div {
+            font-size: 11px;
+            margin-top: 8px;
+            padding-bottom: 3px;
+            /* margin-bottom: 8px; */
+        }
+            
+        .Copyrightline a {
+            text-decoration: none
+        }
+    
+        .Copyrightline i {
+            font-size: 15px;
+            padding: 7px;
+            margin: 0px 5px;
+            border-radius: 5px;
+        }
+    
+    }

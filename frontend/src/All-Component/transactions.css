@@ -1,0 +1,125 @@
+
+@media (min-width: 992px) and (max-width:1600px) {
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.maintrans{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    border-radius: 27px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+.maintrans h4 {
+    text-align: center;
+    padding-top: 10px;
+    font-size: 19px;
+    color: white;
+}
+.maintrans h5 {
+    text-align: center;
+    padding-top: 10px;
+    font-size: 19px;
+    color: rgb(214, 63, 63);
+}
+
+
+.maindepo{
+    width: 50%;
+    background-color: rgb(79, 207, 20);
+    margin: 7px;
+}
+.mainwithdra{
+    width: 50%;
+    background-color: rgb(134, 24, 24);
+    margin: 7px;
+}
+.diposit1{
+    background-color: rgb(43, 45, 45);
+    margin-bottom: 5px;
+    border-radius: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.maintrans p {
+    text-align: center;
+    color: green;
+    font-size: 19px;
+}
+
+}
+
+@media (min-width: 10px) and (max-width:991px) {
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+        
+    }
+    
+    .maintrans{
+        display: flex;
+        align-items: start;
+        justify-content: center;
+        background-color: black;
+        color: white;
+        border-radius: 27px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+    }
+    .maintrans h4 {
+        text-align: center;
+        padding-top: 10px;
+        font-size: 16px;
+        color: white;
+    }
+    .maintrans h5 {
+        text-align: center;
+        padding-top: 5px;
+        font-size: 15px;
+        color: rgb(214, 63, 63);
+    }
+
+    
+    .maindepo{
+        width: 50%;
+        background-color: rgb(79, 207, 20);
+        margin: 7px;
+    }
+    .mainwithdra{
+        width: 50%;
+        background-color: rgb(134, 24, 24);
+        margin: 7px;
+    }
+    .diposit1{
+        background-color: #262829;
+        margin-bottom: 5px;
+        border-radius: 20px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .maintrans p {
+        text-align: center;
+        color: green;
+        font-size: 14px;
+    }
+}

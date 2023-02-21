@@ -1,0 +1,486 @@
+
+
+/* Loptap and Computer code  */
+@media (min-width: 992px) and (max-width:1600px) {
+
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+        
+    }
+
+
+
+    .Sign_Up {
+        background-color: red;
+        background-image: url('../Home-Background-Images/form-background.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: white;
+        margin: 10px 10%;
+        padding: 10px 50px;
+        border-radius: 20px;
+        font-family: 'Oleo Script', 'cursive';
+    }
+
+    .Star {
+        color: red;
+    }
+
+    .Sign_Up a {
+        text-decoration: none;
+        color: yellow;
+        font-size: 17px;
+    }
+
+    .Sign_Up a:hover {
+        color: #3498DB;
+    }
+
+    .Sign_Up h3 {
+        text-align: center;
+        padding-top: 40px;
+    }
+
+    .Sign_Up label {
+        font-size: 18px;
+        margin: 4px 10px;
+        color: white;
+        padding: 0px 5px;
+        font-style: italic;
+    }
+
+    .Sign_Up input {
+        color: red;
+        background-color: white;
+        padding: 6px 15px;
+        width: 100%;
+        border-radius: 5px;
+        border: none;
+        font-style: italic;
+        font-weight: bolder;
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+
+    .Sign_Up span {
+       height: 10px;
+       width: 30px;
+       display: inline-block;
+    }
+
+    .Sign_Up .btn {
+        text-align: center;
+        
+    }
+
+    .Sign_Up .btn a {
+        color: white;
+        
+    }
+
+    .Sign_Up button {
+        background-color: #0f44d4;
+        color: white;
+        font-style: italic;
+        padding: 2px 10px;
+        border-radius: 5px;
+        margin: 10px 2%;
+        width: 140px;
+        font-size: 17px;
+        border: none;
+    }
+
+    .Sign_Up button:hover {
+        background-color: #0d2cb8;
+        color: white;
+    }
+
+    .Sign_Up .Link {
+        margin: 40px 0px;
+    }
+
+    .Sign_Up .btn button {
+        width: 250px;
+        height: auto;
+        font-size: 19px;
+        padding: 5px 10px;
+    }
+    /* .Sign_Up .icon121{
+        position: absolute;
+        top: 290px;
+        left: 820px;
+        color: black;
+    } */
+
+    .Sign_Up select {
+        height: auto;
+        width: 100%;
+        border-radius: 5px;
+        font-size: 15px;
+        padding: 0px 15px;
+        font-weight: bold;
+        color: red;
+    }
+
+    .Sign_Up img {
+        height: auto;
+        width: 50%;
+        margin: 15px 0px 5px ;
+        border-radius: 10px;
+    }
+
+    .Sign_Up h2 {
+        font-size: 22px;
+        color: red;
+        text-align: center;
+    }
+
+    .Sign_Up option {
+        margin: 0px ;
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    .Sign_Up h6 {
+        color: white;
+        width: 70%;
+        margin: 1px 15% 20px;
+        font-size: 17px;
+        text-align: center;
+        background-color: blue;
+        padding: 10px 10px;
+        border-radius: 10px;
+
+    }
+
+    
+    /* img{
+        width: 5vmax;
+        border-radius: 100%;
+    } */
+
+}
+
+
+    @media (min-width: 501px) and (max-width:992px) {
+
+        
+    .Sign_Up {
+        background-color: red;
+        background-image: url('../Home-Background-Images/form-background.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: white;
+        margin: 10px 10%;
+        padding: 10px 40px;
+        border-radius: 20px;
+        font-family: 'Oleo Script', 'cursive';
+    }
+
+    .Star {
+        color: red;
+    }
+
+    .Sign_Up a {
+        text-decoration: none;
+        color: yellow;
+        font-size: 15px;
+    }
+
+    .Sign_Up a:hover {
+        color: #3498DB;
+    }
+
+    .Sign_Up h3 {
+        text-align: center;
+        padding-top: 40px;
+        font-size: 19px;
+    }
+
+    .Sign_Up label {
+        font-size: 15px;
+        margin: 4px 10px;
+        color: white;
+        padding: 0px 5px;
+        font-style: italic;
+    }
+
+    .Sign_Up input {
+        color: red;
+        background-color: white;
+        padding: 6px 15px;
+        width: 100%;
+        border-radius: 5px;
+        border: none;
+        font-style: italic;
+        font-weight: bolder;
+        margin-bottom: 10px;
+        font-size: 13px;
+    }
+
+    .Sign_Up span {
+       height: 10px;
+       width: 30px;
+       display: inline-block;
+    }
+
+    .Sign_Up .btn {
+        text-align:center ;
+        
+    }
+
+    .Sign_Up .btn a {
+        color: white;
+    }
+
+
+
+    .Sign_Up button {
+        background-color: #0f44d4;
+        color: white;
+        font-style: italic;
+        padding: 3px 5px;
+        border-radius: 5px;
+        margin: 10px 0%;
+        width: 115px;
+        font-size: 14px;
+        border: none;
+        
+    }
+
+    .Sign_Up button:hover {
+        background-color: #c7e039;
+        color: red;
+        font-weight: bolder;
+    }
+
+    .Sign_Up .Link {
+        margin: 35px 0px;
+    }
+
+    .Sign_Up select {
+        height: auto;
+        width: 100%;
+        border-radius: 5px;
+        font-size: 14px;
+        padding: 0px 15px;
+        font-weight: bold;
+        color: red;
+    }
+
+    .Sign_Up img {
+        height: 430px;
+        width: 80%;
+        margin: 15px 0px 5px ;
+        border-radius: 10px;
+    }
+
+    .Sign_Up h6 {
+        color: white;
+        width: 70%;
+        margin: 1px 15% 20px;
+        font-size: 17px;
+        text-align: center;
+        background-color: blue;
+        padding: 10px 10px;
+        border-radius: 10px;
+
+    }
+
+
+    
+
+    .Sign_Up h2 {
+        font-size: 20px;
+        color: red;
+        text-align: center;
+    }
+
+    .Sign_Up option {
+        margin: 0px ;
+        font-size: 12px;
+        font-weight: bold;
+    }
+
+    .help {
+        text-align: center;
+        font-size: 13px;
+    }
+   
+    
+    }
+    
+/* Loptap and Computer code end */
+
+/* mobile and tablet design code */
+@media (min-width: 10px) and (max-width:500px) {
+
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    
+
+    .Sign_Up {
+        background-color: red;
+        background-image: url('../Home-Background-Images/form-background.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: white;
+        margin: 10px 12px;
+        padding: 10px 30px;
+        border-radius: 20px;
+        font-family: 'Oleo Script', 'cursive';
+    }
+
+    .Star {
+        color: red;
+    }
+
+    .Sign_Up a {
+        text-decoration: none;
+        color: yellow;
+        font-size: 14px;
+    }
+
+    .Sign_Up a:hover {
+        color: #3498DB;
+    }
+
+    .Sign_Up h3 {
+        text-align: center;
+        padding-top: 40px;
+        font-size: 19px;
+    }
+
+    .Sign_Up label {
+        font-size: 15px;
+        margin: 4px 10px;
+        color: white;
+        padding: 0px 5px;
+        font-style: italic;
+    }
+
+    .Sign_Up input {
+        color: red;
+        background-color: white;
+        padding: 6px 15px;
+        width: 100%;
+        border-radius: 5px;
+        border: none;
+        font-style: italic;
+        font-weight: bolder;
+        margin-bottom: 10px;
+        font-size: 13px;
+    }
+
+    .Sign_Up span {
+       height: 10px;
+       width: 30px;
+       display: inline-block;
+    }
+
+    .Sign_Up .btn {
+        text-align:center ;
+        
+    }
+
+    .Sign_Up .btn a {
+        color: white;
+        
+    }
+
+    .Sign_Up .conp {
+        font-size: 13px;
+    }
+
+    
+
+    .Sign_Up button {
+        background-color: #0f44d4;
+        color: white;
+        font-style: italic;
+        padding: 3px 2px;
+        border-radius: 5px;
+        margin: 10px 1%;
+        width: 110px;
+        font-size: 15px;
+        border: none;
+        
+    }
+
+    .Sign_Up h6 {
+        color: white;
+        width: 70%;
+        margin: 1px 15% 20px;
+        font-size: 17px;
+        text-align: center;
+        background-color: blue;
+        padding: 10px 10px;
+        border-radius: 10px;
+
+    }
+
+    .Sign_Up h6:hover {
+        background-color: red;
+        color:yellow;
+    }
+
+    
+
+    .Sign_Up button:hover {
+        background-color: #c7e039;
+        color: red;
+        font-weight: bolder;
+    }
+
+    .Sign_Up .Link {
+        margin: 35px 0px;
+        font-size: 14px;
+    }
+
+    .help {
+        text-align: center;
+        font-size: 13px;
+    }
+
+    .Sign_Up select {
+        height: auto;
+        width: 100%;
+        border-radius: 5px;
+        font-size: 14px;
+        padding: 0px 15px;
+        font-weight: bold;
+        color: red;
+    }
+
+    .Sign_Up img {
+        height: auto;
+        width: 90%;
+        margin: 15px 0px 5px ;
+        border-radius: 10px;
+    }
+
+    .Sign_Up h2 {
+        font-size: 16px;
+        color: red;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .Sign_Up option {
+        margin: 0px ;
+        font-size: 12px;
+        font-weight: bold;
+    }
+
+
+    
+    
+
+/* mobile and tablet design code end */
+} 

@@ -1,0 +1,294 @@
+
+
+/* Loptap and Computer code  */
+@media (min-width: 992px) and (max-width:1600px) {
+
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+        
+    }
+
+    .BetHistoryArea {
+       background-color: #0324fc;
+       height: auto;
+       font-family:'Times New Roman', Times, serif;
+       text-transform: uppercase;
+       width: 96%;
+       margin: 5px 2%;
+       padding: 5px;
+       display: inline-block;
+       border-radius: 10px;
+
+    }
+
+    .MobileBike {
+        display: none;
+    }
+
+    .BetHistoryArea h2 {
+        color: white;
+        text-align: center;
+        padding: 5px 0px 0px;
+    }
+
+    .Leftside {
+        height: auto;
+        width: 48%;
+        display: inline-block;
+        border-radius: 10px;
+        margin: 10px 1%;
+        display: inline-block;
+        float: left;
+        
+    }
+
+    .ComputerBike {
+        height: 330px;
+        width: 98%;
+        display: inline-block;
+        border-radius: 10px;
+        margin: 5px 1%;
+    }
+
+    .Rightside {
+        border-radius: 10px;
+        margin: 5px 0px;
+        width: 50%;
+        display:inline-block ;
+        float: right;
+        padding: 20px 15px;       
+        
+    }
+
+
+    .BetHistoryArea p {
+        color: white;
+        text-align: center;   
+        font-size: 17px;
+        padding: 0px 5px;
+    }
+
+
+   
+
+     .line-text {
+        color: white;
+        text-transform: capitalize;
+        font-family:'Times New Roman', Times, serif;
+        font-size: 15px;
+    }  
+
+    .BetHistoryArea span {
+        padding: 2px 5% ;
+        font-size: 17px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       
+    }
+
+
+
+
+}
+
+
+/* Loptap and Computer code end */
+
+    @media (min-width: 501px) and (max-width:992px) {
+
+        * {
+            box-sizing: border-box;
+            margin: 0px;
+            padding: 0px;
+            
+        }
+
+        /* .ComputerBike {
+            display: none;
+        } */
+
+
+        .BetHistoryArea {
+            background-color: #0324fc;
+            height: auto;
+            font-family:'Times New Roman', Times, serif;
+            text-transform: uppercase;
+            width: 96%;
+            margin: 5px 2%;
+            padding: 5px 5px;
+            display: inline-block;
+            border-radius: 10px;
+     
+         }
+     
+         .BetHistoryArea h2 {
+            color: white;
+            text-align: center;
+            padding: 5px 0px 0px;
+        }
+        
+
+         .MobileBike {
+             display: none;
+         }
+     
+         
+     
+         .Leftside {
+             height: auto;
+             width: 48%;
+             display: inline-block;
+             border-radius: 10px;
+             margin: 10px 1%;
+             display: inline-block;
+             float: left;
+             
+         }
+     
+         .ComputerBike {
+             height: 300px;
+             width: 100%;
+             display: inline-block;
+             border-radius: 10px;
+             margin: 5px 0%;
+         }
+     
+         .Rightside {
+             border-radius: 10px;
+             margin: 5px 0px;
+             width: 50%;
+             display:inline-block ;
+             float: right;
+             padding: 15px 10px;       
+             
+         }
+     
+        
+         .BetHistoryArea p {
+            color: white;
+            text-align: center;   
+            font-size: 15px;
+            padding: 0px 5px;
+        }
+    
+    
+       
+    
+         .line-text {
+            color: white;
+            text-transform: capitalize;
+            font-family:'Times New Roman', Times, serif;
+            font-size: 13px;
+          
+        }  
+    
+        .BetHistoryArea span {
+            padding: 2px 10px ;
+            font-size: 14px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+           
+        }
+
+     
+    
+    
+    }
+    
+
+/* mobile and tablet design code */
+@media (min-width: 10px) and (max-width:500px) {
+
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .ComputerBike {
+        display: none;
+    }
+
+    .BetHistoryArea {
+        background-color: #0324fc;
+        height: auto;
+        font-family:'Times New Roman', Times, serif;
+        text-transform: uppercase;
+        width: 96%;
+        margin: 5px 2% 5px;
+        padding: 5px 5px 0px;
+        display: inline-block;
+        border-radius: 10px;
+ 
+     }
+
+     .BetHistoryArea h2 {
+        color: white;
+        text-align: center;
+        font-size: 18px;
+        padding: 5px 0px 0px;
+    }
+ 
+    .ComputerBike {
+         display: none;
+     }
+ 
+     
+ 
+     .Leftside {
+         height: auto;
+         width: 98%;
+         display: inline-block;
+         border-radius: 10px;
+         margin: 5px 1%;
+         display: inline-block;
+         float: left;
+         
+     }
+ 
+     .MobileBike {
+         height: 200px;
+         width: 100%;
+         display: inline-block;
+         border-radius: 10px;
+         margin: 1px 0%;
+     }
+ 
+     .Rightside {
+         border-radius: 10px;
+         margin: 2px 0px;
+         width: 100%;
+         display:inline-block ;
+         float: right;
+         padding: 5px 10px;       
+         
+     }
+
+
+     .BetHistoryArea p {
+        color: white;
+        text-align: center;   
+        font-size: 14px;
+        padding: 0px 5px;
+    }
+
+     .line-text {
+        color: white;
+        text-transform: capitalize;
+        font-family:'Times New Roman', Times, serif;
+        font-size: 12px;
+      
+    }  
+
+    .BetHistoryArea span {
+        padding: 2px 10px ;
+        font-size: 14px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       
+    }
+
+    
+    
+
+/* mobile and tablet design code end */
+} 

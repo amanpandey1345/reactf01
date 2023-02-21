@@ -1,0 +1,198 @@
+
+
+/* Loptap and Computer code  */
+@media (min-width: 992px) and (max-width:1600px) {
+
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+        
+    }
+
+    .Developers {
+        width: 100%;
+        height: auto;
+        background-color: black;
+        padding: 20px 30px;
+        text-align: center;
+    }
+
+    .Developers a {
+        color: blue;
+        text-decoration: none;
+        font-size: 18px;
+    }
+
+    .Developers h2 {
+         color: white;
+         text-align: center;
+         padding: 20px 10px;
+
+    }
+
+    .Developers h4 {
+        color: white;
+
+    }
+
+    .Developers img {
+        width: 300px;
+        height: 300px;
+        margin: 20px 30px;
+        
+        border-radius: 60%;
+
+    }
+
+
+    .Developers .dtext {
+        
+        color: white;
+        
+    }
+
+    
+     
+
+
+
+
+}
+
+
+/* Loptap and Computer code end */
+
+    @media (min-width: 501px) and (max-width:992px) {
+
+        * {
+            box-sizing: border-box;
+            margin: 0px;
+            padding: 0px;
+            
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0px;
+            padding: 0px;
+            
+        }
+    
+        .Developers {
+            width: 100%;
+            height: auto;
+            background-color: black;
+            padding: 20px 30px;
+            text-align: center;
+        }
+    
+        .Developers a {
+            color: blue;
+            text-decoration: none;
+            font-size: 18px;
+        }
+    
+        .Developers h2 {
+             color: white;
+             text-align: center;
+             padding: 20px 10px;
+    
+        }
+    
+        .Developers h4 {
+            color: white;
+    
+        }
+    
+        .Developers img {
+            width: 300px;
+            height: 300px;
+            margin: 20px 30px;
+            
+            border-radius: 60%;
+    
+        }
+    
+    
+        .Developers .dtext {
+            
+            color: white;
+            
+        }
+    
+     
+
+       
+ 
+    
+    
+    }
+    
+
+/* mobile and tablet design code */
+@media (min-width: 10px) and (max-width:500px) {
+
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+        
+    }
+
+    .Developers {
+        width: 100%;
+        height: auto;
+        background-color: black;
+        padding: 20px 30px;
+        text-align: center;
+    }
+
+    .Developers a {
+        color: blue;
+        text-decoration: none;
+        font-size: 18px;
+    }
+
+    .Developers h2 {
+         color: white;
+         text-align: center;
+         padding: 20px 10px;
+         font-size: 19px;
+
+    }
+
+    .Developers h4 {
+        color: white;
+        font-size: 13px;
+
+    }
+
+    .Developers img {
+        width: 170px;
+        height: 180px;
+        margin: 20px 30px;
+        border-radius: 60%;
+
+    }
+
+
+    .Developers .dtext {
+        font-size: 14px;
+        color: white;
+        
+    }
+
+ 
+
+
+    
+
+/* mobile and tablet design code end */
+} 

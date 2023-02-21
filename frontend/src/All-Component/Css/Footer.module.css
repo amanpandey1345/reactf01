@@ -1,0 +1,254 @@
+/* Loptap and Computer code  */
+@media (min-width: 992px) and (max-width:1600px) {
+
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+        
+    }
+
+
+    .FooterSecond {
+        background-color: #003DB0 ;
+        color: white;
+        font-family: 'Tai Heritage Pro', serif;
+        padding: 20px 5px;
+        width: 60%;
+        margin: 0px 20%;
+        height: auto;
+        text-align: justify;
+            
+    }
+    
+    .FooterSecond h2 {
+        margin: 30px 0px;
+        text-align: center;
+        font-size: 28px;
+    }
+    
+    .FooterSecond p {
+        font-size: 15px;
+        font-family: 'Tai Heritage Pro', serif;
+    
+    }
+    
+    .FooterSecond ul li {
+        list-style-type: none;
+        color: white;
+        padding: 10px 5px;
+        font-family: 'Tai Heritage Pro', serif;
+        
+    }
+    
+    .FooterSecond ul li i {
+        font-size: 18px;
+        padding: 5px;
+        border-radius: 5px;
+        margin: 0px 10px;
+    }
+    
+    .FooterSecond ul li a {
+        text-decoration: none;
+        color: white;
+    }
+    
+    .FooterSecond ul li a:hover {
+        color: #1dec0a;
+    }
+    
+    /* form code here   */
+    
+    label  {
+        margin-left: 11px;
+        margin-bottom: 5px;
+        font-size: 15px;
+    }
+    
+    .FooterSecond input[type=text], textarea {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+      margin-top: 6px;
+      margin-bottom: 16px;
+      font-size: 14px;
+      resize: vertical;
+    }
+    
+    
+    
+    .FooterSecond input[type=submit] {
+      background-color: #3300FF ;
+      color: white;
+      padding: 12px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      width: 100%;
+      margin-top: 10px;
+      
+     
+    }
+    
+    .FooterSecond  input[type=submit]:hover {
+      background-color: #0000FF;
+    }
+    
+    .container {
+      border-radius: 5px;
+      background-color: #f2f2f2;
+      padding: 20px;
+    }
+    
+      
+    
+    .Formheading {
+         margin: 20px 0px;
+         text-align: center;
+    }
+    
+    .FormArea {
+    margin-left: 5px;
+    background-color:#000099 ;
+    padding: 30px 33px;
+    width: 95%;
+    border-radius: 10px;
+    height: auto;
+    padding-bottom: 40px;
+    
+    
+    }
+    
+    }
+    
+    
+    /* Loptap and Computer code end */
+    
+    
+    /* mobile and tablet design code */
+    @media (min-width: 10px) and (max-width:991px) {
+
+        * {
+            box-sizing: border-box;
+            margin: 0px;
+            padding: 0px;
+            
+        }
+    
+        
+        .FooterSecond {
+            background-color: #003DB0 ;
+            color: white;
+            font-family: 'Tai Heritage Pro', serif;
+            padding: 10px 1px;
+            height: auto;
+            width: 100%;
+            text-align: justify;
+                                    
+        }
+        
+        .FooterSecond h2 {
+            margin: 25px 5px 13px;
+            text-align: center;
+            font-size: 22px;
+        }
+        
+        .FooterSecond p {
+            font-size: 13px;
+           padding: 10px 25px;
+           font-family: 'Tai Heritage Pro', serif;
+        
+        }
+        
+        .FooterSecond ul li {
+            list-style-type: none;
+            color: white;
+            padding: 7px 5px;
+            font-family: 'Tai Heritage Pro', serif;
+            font-size: 13px;
+            
+        }
+        
+        .FooterSecond ul li i {
+            font-size: 18px;
+            padding: 5px;
+            border-radius: 5px;
+            margin-right: 7px;
+        }
+        
+        .FooterSecond ul li a {
+            text-decoration: none;
+            color: white;
+            font-size: 13px;
+        }
+        
+        .FooterSecond ul li a:hover {
+            color: #FF5722;
+        }
+        
+        .container {
+            border-radius: 5px;
+            
+          }
+          
+          .Formheading {
+               margin: 20px 0px;
+               text-align: center;
+               font-size: 21px;
+          }
+          
+          .FormArea {
+          background-color: #000066 ;
+          padding: 30px 30px;
+          width: 100%;
+          border-radius: 10px;
+          height: auto;
+          padding-bottom: 50px;
+          }
+        
+        /* form code here   */
+        
+        label  {
+            margin-left: 11px;
+            margin-bottom: 5px;
+            font-size: 15px;
+        }
+        
+        .FooterSecond input[type=text], textarea {
+          width: 100%;
+          padding: 10px;
+          border: 1px solid #ccc;
+          border-radius: 4px;
+          box-sizing: border-box;
+          margin-top: 6px;
+          margin-bottom: 16px;
+          font-size: 13px;
+          resize: vertical;
+        }
+        
+        
+        
+        .FooterSecond input[type=submit] {
+          background-color: #3300FF ;
+          color: white;
+          padding: 12px 20px;
+          border: none;
+          border-radius: 4px;
+          cursor: pointer;
+          width: 100%;
+          margin-top: 10px;
+          
+         
+        }
+        
+        .FooterSecond input[type=submit]:hover {
+          background-color: #0000FF ;
+        }
+        
+      
+        
+    
+    
+    }

@@ -1,0 +1,255 @@
+
+/* Loptap and Computer code  */
+@media (min-width: 992px) and (max-width:1600px) {
+
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+        font-family: 'Tai Heritage Pro', serif;
+    }
+
+    .Mobile {
+      display: none;
+    }
+
+    
+.bet_background {
+    width: 98%;
+    height: auto;
+    background-color: black;
+    margin: 10px 1%;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    display: inline-block;
+    
+    }
+  
+  
+  
+  .bet_image {
+    width:59%;
+    height: 300px;
+    padding-right:10px;
+    margin-bottom: 10px;
+    background-color: black;
+    display: inline-block;
+    float: left;
+    }
+  
+    .bet_image img {
+        width: 100%;
+        height: 300px;
+       
+    }
+  
+  
+  .bet_amount {
+    width: 40%;
+    height: 300px;
+    margin-bottom: 10px;
+    background-color: rgb(13, 65, 235);
+    background-image: url("../Bet-Images-Computer/BetBackground.jpg");
+    display: inline-block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    }
+  
+    .bet_amount h3 {
+        background-color: rgb(13, 65, 235);
+        color: white;
+        height: 50px;
+        font-size: 22px;
+        text-align: center;
+        padding: 10px 0px 0px;
+        font-family: 'Scheherazade New', serif;
+    }
+  
+    .bet_amount p {
+        color: white;
+        font-size: 33px;
+        margin-top: 133px;
+        font-family: 'Scheherazade New', serif;
+        text-align: center;
+    }
+  
+    .bet_amount button {
+        width: 100%;
+        height: 50px;
+        font-family: 'Scheherazade New', serif;
+        font-size: 25px;
+        color: white;
+        background-color: rgb(13, 65, 235);
+        border:none;
+    }
+  
+    .bet_amount button:hover {
+        color: white;
+        background-color: rgb(216, 7, 52);
+       
+    }
+    
+  
+  .bet_coin {
+    width: 100%;
+    height: auto;
+    background-color: rgb(15, 74, 236);
+    clear: both;
+    padding:  10px 0px 20px;
+    text-align: center;
+  }
+  
+  .bet_coin button {
+    width: 100px;
+    height: 35px;
+    background-color: rgb(56, 14, 207);
+    font-family: 'Scheherazade New', serif;
+    font-size: 20px;
+    color: white;
+    border: none;
+    margin: 0px 2%;
+    border-radius: 5px;
+  }
+  
+  .bet_coin div {
+    margin: 10px 0px;
+  }
+  
+  .bet_coin button:hover {
+    color: white;
+    background-color: rgb(216, 7, 52);
+  }
+  
+
+   
+/* Loptap and Computer code end */
+}
+
+/* mobile and tablet design code */
+@media (min-width: 10px) and (max-width:991px) {
+
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .Computer {
+      display: none;
+    }     
+
+  .bet_background {
+    width: 98%;
+    height: auto;
+    background-color: black;
+    margin: 10px 1%;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    display: inline-block;
+    
+    }
+  
+  
+  
+  .bet_image {
+    width:59%;
+    height: 214px;
+    margin-bottom: 10px;
+    background-color: rgb(13, 65, 235);
+    display: inline-block;
+    float: left;
+    }
+  
+    .bet_image img {
+        width: 100%;
+        height: 214px;
+        
+    }
+  
+   
+  
+  .bet_amount {
+    width: 40%;
+    height: 214px;
+    margin-bottom: 10px;
+    background-color: rgb(13, 65, 235);
+    background-image: url("../Bet-Images-Mobile/BetBackground.jpg");
+    display: inline-block;
+    float: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    }
+  
+    .bet_amount h3 {
+        background-color: rgb(13, 65, 235);
+        color: white;
+        height: 40px;
+        font-size: 17px;
+        text-align: center;
+        padding: 10px 0px 0px;
+        font-family: 'Scheherazade New', serif;
+    }
+  
+    .bet_amount p {
+        color: white;
+        font-size: 25px;
+        margin-top: 90px;
+        font-family: 'Scheherazade New', serif;
+        text-align: center;
+    }
+  
+    .bet_amount button {
+        width: 100%;
+        height: 30px;
+        font-family: 'Scheherazade New', serif;
+        font-size: 20px;
+        color: white;
+        background-color: rgb(13, 65, 235);
+        border:none;
+    }
+  
+    .bet_amount button:hover {
+        color: white;
+        background-color: rgb(216, 7, 52);
+       
+    }
+    
+  
+  .bet_coin {
+    width: 100%;
+    height: auto;
+    background-color: rgb(15, 74, 236);
+    clear: both;
+    padding:  20px 0px;
+    text-align: center;
+  }
+  
+  .bet_coin button {
+    width: 60px;
+    height: 35px;
+    background-color: rgb(56, 14, 207);
+    font-family: 'Scheherazade New', serif;
+    font-size: 17px;
+    color: white;
+    border: none;
+    margin: 0px 1%;
+    border-radius: 5px;
+  }
+  
+  .bet_coin div {
+    margin-bottom: 10px;
+  }
+  
+  .bet_coin button:hover {
+    color: white;
+    background-color: rgb(216, 7, 52);
+  }
+  
+  
+
+  
+
+/* mobile and tablet design code end */
+} 

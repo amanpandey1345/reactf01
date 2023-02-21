@@ -1,0 +1,116 @@
+
+/* Loptap and Computer code  */
+@media (min-width: 992px) and (max-width:1600px) {
+
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+        
+    }
+
+
+    .Left_Navbar {
+        background-color: black;
+        height: 100%;
+        width: 20%;
+        position: fixed;
+        font-family: 'Charis SIL', serif;
+    }
+ 
+    /* .Left_Navbar ul li  {
+        list-style: none;
+        position: relative;
+        right: 20px;
+        font-size: 15px;      
+        color: white; 
+        width: 100%;
+        padding: 22px 0px; 
+    }
+
+    .Left_Navbar a {
+        text-decoration: none;
+        color: white;
+        padding: 20px 40px;
+        font-family: 'Charis SIL', serif;
+    } */
+
+    .Left_Navbar ul li  {
+        list-style: none;
+        font-size: 15px;  
+        position: relative;
+        right: 20px;    
+        color: white; 
+        width: 100%;
+        padding: 24px 0px; 
+    }
+
+    .Left_Navbar a {
+        font-size: 15px;  
+        position: relative;
+        right: 20px;     
+        display: block;
+        width: 100%;
+        padding: 24px 0px; 
+        text-decoration: none;
+        color: white;
+        font-family: 'Charis SIL', serif;
+    }
+
+    .Left_Navbar ul a:hover {
+        background-color: #2433d6;
+        border-radius: 5px;
+        padding: 20px 5px;
+        
+    }
+
+    
+
+    
+    .Left_Navbar i {
+        color: red;
+        margin-right: 10px;
+    }
+    
+    /* @media (min-width: 992px) and (max-width:1024px) {
+
+        .Left_Navbar ul li  {
+            list-style: none;
+            font-size: 13px;  
+            position: relative;
+            right: 20px;    
+            color: white; 
+            width: 100%;
+            padding: 20px 0px; 
+        }
+
+        .Left_Navbar a {
+            text-decoration: none;
+            color: white;
+            padding: 20px 5px;
+            font-family: 'Charis SIL', serif;
+        }
+
+
+    } */
+
+
+/* Loptap and Computer code end */
+}
+
+/* mobile and tablet design code */
+@media (min-width: 10px) and (max-width:991px) {
+
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .Left_Navbar {
+        display: none;
+    }
+    
+
+/* mobile and tablet design code end */
+} 

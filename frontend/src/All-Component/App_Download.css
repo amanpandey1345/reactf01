@@ -1,0 +1,81 @@
+
+
+/* Loptap and Computer code  */
+@media (min-width: 992px) and (max-width:1600px) {
+
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+        
+    }
+
+    .App_Download {
+        background-color: rgb(0, 68, 255);
+        height: 700px;
+        width: 96%;
+        margin: 10px 2%;
+        text-align: center;
+        color: white;
+        font-size: 26px;
+        padding: 30px 10px;
+    }
+
+
+
+
+}
+
+
+/* Loptap and Computer code end */
+
+    @media (min-width: 501px) and (max-width:992px) {
+
+        * {
+            box-sizing: border-box;
+            margin: 0px;
+            padding: 0px;
+            
+        }
+
+        .App_Download {
+            background-color: rgb(0, 68, 255);
+            height: 500px;
+            width: 96%;
+            margin: 10px 2%;
+            text-align: center;
+            color: white;
+            font-size: 24px;
+            padding: 30px 10px;
+        }
+    
+ 
+    
+    
+    }
+    
+
+/* mobile and tablet design code */
+@media (min-width: 10px) and (max-width:500px) {
+
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .App_Download {
+        background-color: rgb(0, 68, 255);
+        height: 500px;
+        width: 96%;
+        margin: 10px 2%;
+        text-align: center;
+        color: white;
+        font-size: 24px;
+        padding: 60px 10px;
+    }
+    
+    
+
+/* mobile and tablet design code end */
+} 

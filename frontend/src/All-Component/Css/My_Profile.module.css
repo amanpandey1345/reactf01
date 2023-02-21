@@ -1,0 +1,238 @@
+
+
+/* Loptap and Computer code  */
+@media (min-width: 992px) and (max-width:1600px) {
+
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+        
+    }
+
+    .My_ProfileArea {
+        background-color:#3432a8;
+        padding: 10px;
+        margin: 10px 15px;
+        border-radius: 10px;
+        height: auto;
+        
+    }
+
+    .Balance-img {
+        height: 200px;
+        width: 45%;
+        margin: 20px 10px;
+        padding: 50px 20px;
+        text-align: center;
+        color: white;
+        border-radius: 10px;
+        font-size: 22px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        /* background-image: url('./Navbar-Images/Balance.jpg');         */
+    }
+
+    .My_ProfileArea h3 {
+        text-align: center;
+        color: white;
+        margin: 20px 0px;
+        font-size: 24px;
+    }
+
+    .My_ProfileArea h4 {
+        font-size: 22px;
+    }
+
+    .My_ProfileArea p {
+        font-size: 18px;
+    }
+
+    .My_ProfileArea hr {
+        color: white;
+        margin: 20px 30px ;
+    }
+
+    .Profile {
+        color: white;
+        margin: 50px 10px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .Change_password {
+        background-color: #1a18c0;
+        padding: 10px 15px;
+        color: white;
+        border: none;
+        border-radius: 10px;
+    }
+
+    .Change_password:hover {
+        color:red ;
+        background-color: #bed114;
+        
+    }
+
+
+}
+
+
+/* Loptap and Computer code end */
+
+    @media (min-width: 501px) and (max-width:992px) {
+
+        * {
+            box-sizing: border-box;
+            margin: 0px;
+            padding: 0px;
+            
+        }
+
+        .My_ProfileArea {
+            background-color:#3432a8;
+            padding: 10px;
+            margin: 10px 15px;
+            border-radius: 10px;
+            height: auto;
+            
+        }
+    
+        .Balance-img {
+            height: 200px;
+            width: 80%;
+            margin: 20px 10px;
+            padding: 50px 20px;
+            text-align: center;
+            color: white;
+            border-radius: 10px;
+            font-size: 20px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            /* background-image: url('./Navbar-Images/Balance.jpg');         */
+        }
+    
+        .My_ProfileArea h3 {
+            text-align: center;
+            color: white;
+            margin: 20px 0px;
+            font-size: 21px;
+        }
+
+        .My_ProfileArea h4 {
+            font-size: 18px;
+        }
+    
+        .My_ProfileArea p {
+            font-size: 15px;
+        }
+    
+        .My_ProfileArea hr {
+            color: white;
+            margin: 20px 30px ;
+        }
+    
+        .Profile {
+            color: white;
+            margin: 50px 10px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+    
+        .Change_password {
+            background-color: #1a18c0;
+            padding: 10px 15px;
+            color: white;
+            border: none;
+            border-radius: 10px;
+        }
+    
+        .Change_password:hover {
+            color:red ;
+            background-color: #bed114;
+            
+        }
+    
+
+     
+
+    
+    
+    }
+    
+
+/* mobile and tablet design code */
+@media (min-width: 10px) and (max-width:500px) {
+
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .My_ProfileArea {
+        background-color:#3432a8;
+        padding: 10px;
+        margin: 10px 15px;
+        border-radius: 10px;
+        height: auto;
+        
+    }
+
+    .Balance-img {
+        height: 200px;
+        width: 90%;
+        margin: 20px 10px;
+        padding: 60px 10px;
+        text-align: center;
+        color: white;
+        border-radius: 10px;
+        font-size: 22px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        /* background-image: url('./Navbar-Images/Balance.jpg');         */
+    }
+
+    .My_ProfileArea h3 {
+        text-align: center;
+        color: white;
+        margin: 20px 0px;
+        font-size: 22px;
+    }
+
+    .My_ProfileArea h4 {
+        font-size: 17px;
+    }
+
+    .My_ProfileArea p {
+        font-size: 14px;
+    }
+
+    .My_ProfileArea hr {
+        color: white;
+        margin: 10px 15px ;
+    }
+
+    .Profile {
+        color: white;
+        margin: 30px 10px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .Change_password {
+        background-color: #1a18c0;
+        padding: 10px 15px;
+        color: white;
+        border: none;
+        font-size: 15px;
+        border-radius: 10px;
+    }
+
+    .Change_password:hover {
+        color:red ;
+        background-color: #bed114;
+        
+    }
+
+
+    
+    
+    
+
+/* mobile and tablet design code end */
+} 
