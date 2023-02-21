@@ -16,10 +16,10 @@ process.on("uncaughtException",(err)=>{
 
 // Config
 dotenv.config({path:"backend/config/config.env"})
-if(process.env.NODE_ENV!=="PRODUCTION"){
+// if(process.env.NODE_ENV!=="PRODUCTION"){
 
-    // require("dotenv").config({path:"server/config/config.env"})
-}
+//     // require("dotenv").config({path:"server/config/config.env"})
+// }
 
 // connect database
 
